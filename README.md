@@ -1,26 +1,29 @@
 # Hi there, I'm Labiba! 👋
+Empowering ideas through code and creativity.
 
-Welcome to my GitHub profile! I'm a passionate developer committed to crafting innovative solutions and constantly growing in the world of technology. I love working on innovative projects and contributing to the tech community. Here's a glimpse into my journey:
+Welcome to my GitHub! I'm a passionate full-stack developer, blending technology with art to craft meaningful digital experiences. I thrive on solving real-world problems and building impactful solutions that connect people.
 
 ## 🚀 About Me
 
-🌍 I'm currently based in New Delhi, India
+🌍 Based in New Delhi, India
 
-🔭 I’m currently working on Imaginex and NeoHire.
+🔭 Currently working on Imaginex & NeoHire
 
-🌱 I’m currently learning advanced MERN stack concepts, and Next.js
+🌱 Deep diving into Advanced MERN Stack & Next.js
 
-👯 I’m looking to collaborate on Aritificial Intelligence(AI) based projects too.
+🤝 Open to collaboration on AI-driven products and full-stack projects
 
-🤔 I’m looking for help with optimizing backend architecture and exploring advanced AI models.
+🧠 Exploring AI model optimization & scalable backend architectures
 
-🌐 I’m passionate about creating technology that bridges gaps and connects people.
+🌐 Passionate about tech for social impact and digital transformation
 
-💬 Ask me about web development, AI integration, and creative tech solutions.
+💬 Ask me about web development, AI integrations, and creative problem-solving
 
-📫 How to reach me: labibanajmee09@gmail.com
+📫 Reach me at: labibanajmee09@gmail.com
 
-⚡ Fun fact: I love blending technology with art to create impactful solutions!
+🎨 Fun fact: I love fusing art with tech to design expressive, immersive user experiences.
+
+
 
 ## 🛠️ Technologies & Tools
 
