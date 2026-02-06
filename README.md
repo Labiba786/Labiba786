@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer, blending technology
 
 🌍 Based in New Delhi, India
 
-🔭 Currently working on Stocksphere
+🔭 Currently working on Travella
 
 🌱 Deep diving into Advanced MERN Stack & Next.js
 
